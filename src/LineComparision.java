@@ -9,7 +9,7 @@ public class LineComparision {
 		
 		// calculation
 		lengthOfLine1 = Math.sqrt( (Math.pow((x2-x1),2))  + Math.pow((y2-y1),2) );
-		System.out.println("length of line :" +lengthOfLine1);
+		System.out.println("length of line :" +lengthOfLine1)
 	}
 
 }
